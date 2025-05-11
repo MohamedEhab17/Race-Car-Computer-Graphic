@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Race Game", "race.vcxproj", "{9A431176-169D-4953-8AB7-5DF03B949BFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BBE63EDA-F290-4140-ADCA-CD104CE56C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A431176-169D-4953-8AB7-5DF03B949BFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{9A431176-169D-4953-8AB7-5DF03B949BFF}.Debug|x86.Build.0 = Debug|Win32
+		{9A431176-169D-4953-8AB7-5DF03B949BFF}.Release|x86.ActiveCfg = Release|Win32
+		{9A431176-169D-4953-8AB7-5DF03B949BFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {693342FC-20EE-4A64-9C14-9C2911B519F2}
+	EndGlobalSection
+EndGlobal

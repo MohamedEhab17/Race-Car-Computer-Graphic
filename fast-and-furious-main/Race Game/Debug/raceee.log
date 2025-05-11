@@ -1,0 +1,6 @@
+﻿  source.cpp
+C:\Users\121mo\OneDrive\Desktop\Race-Car-Game-With-openGL-main\gameEslam\source.cpp(568,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\121mo\OneDrive\Desktop\Race-Car-Game-With-openGL-main\gameEslam\source.cpp(570,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\121mo\OneDrive\Desktop\Race-Car-Game-With-openGL-main\gameEslam\source.cpp(598,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\121mo\OneDrive\Desktop\Race-Car-Game-With-openGL-main\gameEslam\source.cpp(600,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  gameEslam.vcxproj -> C:\Users\121mo\OneDrive\Desktop\Race-Car-Game-With-openGL-main\gameEslam\Debug\Race Game.exe
