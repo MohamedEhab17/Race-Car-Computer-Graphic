@@ -6,10 +6,10 @@ This is a 3D race car game built with C++ and the OpenGL Utility Toolkit (GLUT).
 Here are some screenshots from the app:
 
 ###  Level 1
-![Level 1]([https://github.com/MohammedAdel110/fast-and-furious/blob/main/Screen%20Shot/level1.jpg?raw=true](https://github.com/MohamedEhab17/Race-Car-Computer-Graphic/blob/master/fast-and-furious-main/Screen%20Shot/level1.jpg?raw=true))
+![Level 1](https://raw.githubusercontent.com/MohamedEhab17/Race-Car-Computer-Graphic/refs/heads/master/fast-and-furious-main/Screen%20Shot/level1.jpg)
 
 ### 🖼 Level 2
-![Level 2]([https://github.com/MohammedAdel110/fast-and-furious/blob/main/Screen%20Shot/level2.png?raw=true](https://github.com/MohamedEhab17/Race-Car-Computer-Graphic/blob/master/fast-and-furious-main/Screen%20Shot/level2.png?raw=true))
+![Level 2](https://raw.githubusercontent.com/MohamedEhab17/Race-Car-Computer-Graphic/refs/heads/master/fast-and-furious-main/Screen%20Shot/level2.png)
 
 ---
 ## 🚀 Features
